@@ -56,10 +56,10 @@ QuickBite is a modern food delivery app built with **Flutter**. It provides user
 
 | Feature                  | Screenshot                                  |
 |--------------------------|---------------------------------------------|
-| Home Page                | ![WhatsApp Image 2025-01-25 at 00 05 51_0382b5f5](https://github.com/user-attachments/assets/17cb2904-c256-4306-a0a7-b56702504458)    |
-| Cart Page                | ![WhatsApp Image 2025-01-25 at 00 05 50_29a5611b](https://github.com/user-attachments/assets/afb33b98-b430-44b8-aefc-d43cd8cd7ce0) |
-| Payment Page             | ![WhatsApp Image 2025-01-25 at 00 05 49_3df48b97](https://github.com/user-attachments/assets/f215ceb2-88c7-4428-879f-ee0cc1a616f7)|
-| Receipt Page             | ![WhatsApp Image 2025-01-25 at 00 05 49_6e29c96e](https://github.com/user-attachments/assets/1acd1400-e0df-4116-9752-7181341c34c0)|
+| Home Page                | <img src="https://github.com/user-attachments/assets/17cb2904-c256-4306-a0a7-b56702504458" width="200" /> |
+| Cart Page                | <img src="https://github.com/user-attachments/assets/afb33b98-b430-44b8-aefc-d43cd8cd7ce0" width="200" /> |
+| Payment Page             | <img src="https://github.com/user-attachments/assets/f215ceb2-88c7-4428-879f-ee0cc1a616f7" width="200" /> |
+| Receipt Page             | <img src="https://github.com/user-attachments/assets/1acd1400-e0df-4116-9752-7181341c34c0" width="200" /> ||
 ---
 ## Future Enhancements 🔮
 
