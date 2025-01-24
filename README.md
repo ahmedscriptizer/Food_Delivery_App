@@ -1,4 +1,4 @@
-### QuickBite
+# QuickBite 🍔🚀
 QuickBite is a modern food delivery app built with **Flutter**. It provides users with an intuitive way to browse restaurants, add food items to the cart, and place orders using secure payment methods. The app features a **responsive design**, **theme switching**, and **Firebase Firestore integration** for storing orders. Whether you're craving a burger, salad, or dessert, QuickBite has you covered!
 
 ---
