@@ -30,14 +30,13 @@ QuickBite is a modern food delivery app built with **Flutter**. It provides user
 ---
 
 ## Project Structure 🗂️
-
-lib/
-├── components/ # Reusable UI components (buttons, cart tiles, etc.)
-├── models/ # Data models like Food, Addons, and Restaurant.
-├── pages/ # Screens for various functionalities (e.g., Cart, Payment, Settings).
-├── services/ # Backend logic like Firestore integration.
-├── themes/ # Theme definitions for light and dark modes.
-├── main.dart # The entry point of the application.
+**lib/**  
+├── **components/**      # Reusable UI components (buttons, cart tiles, etc.)  
+├── **models/**          # Data models like Food, Addons, and Restaurant.  
+├── **pages/**           # Screens for various functionalities (e.g., Cart, Payment, Settings).  
+├── **services/**        # Backend logic like Firestore integration.  
+├── **themes/**          # Theme definitions for light and dark modes.  
+├── **main.dart**        # The entry point of the application.  
 ---
 
 ## Tech Stack 💻
