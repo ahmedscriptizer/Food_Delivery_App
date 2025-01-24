@@ -1,4 +1,4 @@
-# QuickBite 🍔🚀
+![WhatsApp Image 2025-01-25 at 00 05 49_3df48b97](https://github.com/user-attachments/assets/6f22c701-f3cd-4f72-84c9-2953d84ec772)# QuickBite 🍔🚀
 
 QuickBite is a modern food delivery app built with **Flutter**. It provides users with an intuitive way to browse restaurants, add food items to the cart, and place orders using secure payment methods. The app features a **responsive design**, **theme switching**, and **Firebase Firestore integration** for storing orders. Whether you're craving a burger, salad, or dessert, QuickBite has you covered!
 
@@ -56,10 +56,11 @@ QuickBite is a modern food delivery app built with **Flutter**. It provides user
 
 | Feature                  | Screenshot                                  |
 |--------------------------|---------------------------------------------|
-| Home Page                | ![Home](https://via.placeholder.com/300x600.png?text=Home+Page)       |
-| Cart Page                | ![Cart](https://via.placeholder.com/300x600.png?text=Cart+Page)       |
-| Payment Page             | ![Payment](https://via.placeholder.com/300x600.png?text=Payment+Page) |
-| Delivery Progress Page   | ![Delivery](https://via.placeholder.com/300x600.png?text=Delivery+Page) |
+| Home Page                | ![WhatsApp Image 2025-01-25 at 00 05 51_0382b5f5](https://github.com/user-attachments/assets/17cb2904-c256-4306-a0a7-b56702504458)    |
+| Cart Page                | ![WhatsApp Image 2025-01-25 at 00 05 50_29a5611b](https://github.com/user-attachments/assets/afb33b98-b430-44b8-aefc-d43cd8cd7ce0) |
+| Payment Page             | ![WhatsApp Image 2025-01-25 at 00 05 49_3df48b97](https://github.com/user-attachments/assets/f215ceb2-88c7-4428-879f-ee0cc1a616f7)|
+| Receipt Page             | ![WhatsApp Image 2025-01-25 at 00 05 49_6e29c96e](https://github.com/user-attachments/assets/1acd1400-e0df-4116-9752-7181341c34c0)|
+---
 ## Future Enhancements 🔮
 
 Here are some ideas for future improvements:
